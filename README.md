@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **UX Design and Frontend Development**
 
-- 📫 You can reach me **binkdaylight@outlook.com**
+- 📫 You can reach me at **binkdaylight@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
