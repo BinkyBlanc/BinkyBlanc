@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binkyblanc&label=Profile%20views&color=0e75b6&style=flat" alt="binkyblanc" /> </p>
 
-- 💡 I’m currently learning **UX Design and Frontend Development**
+- 💡 I’m currently learning **UX Design and Frontend Development**: design thinking, user centric, visual design
 
 - 📫 How to reach me **binkdaylight@outlook.com**
 
