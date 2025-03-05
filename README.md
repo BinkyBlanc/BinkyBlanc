@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Binx</h1>
-<h3 align="center">A passionate UX UI Designer from Bangkok</h3>
+<h1 align="left">Hi 👋, I'm Binx</h1>
+<h3 align="left">A passionate UX UI Designer from Bangkok</h3>
 
 - 🌱 I’m currently learning **UX Design and Frontend Development**
 
