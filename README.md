@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binkyblanc&label=Profile%20views&color=0e75b6&style=flat" alt="binkyblanc" /> </p>
 
-- 🌱 I’m currently learning **UX Design and Frontend Development**
+- 💡 I’m currently learning **UX Design and Frontend Development**
 
 - 📫 How to reach me **binkdaylight@outlook.com**
+
+- 🧠 I'm also working on **Data Science projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
