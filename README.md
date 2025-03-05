@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **binkdaylight@outlook.com**
 
-- 🧠 I'm also working on **UX Research**
+- 🧠 I'm also working on **UX Research** by providing Data Analysis & Visualization
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
