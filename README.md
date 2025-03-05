@@ -8,7 +8,7 @@
 - 📫 How to reach me **binkdaylight@outlook.com**
 
 - 🧠 I'm also working on **UX Research** by providing Data Analysis & Visualization
-      using Tableau/PowerBI and Python...while addressing psychological and marketing concerns..
+      using Tableau/PowerBI and Python...while addressing psychological and market concerns..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
