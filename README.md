@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binkyblanc&label=Profile%20views&color=0e75b6&style=flat" alt="binkyblanc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binkyblanc" alt="binkyblanc" /></a> </p>
-
 - 🌱 I’m currently learning **UX Design and Frontend Development**
 
 - 📫 How to reach me **binkdaylight@outlook.com**
